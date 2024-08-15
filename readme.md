@@ -66,3 +66,4 @@ See the `docs` folder.
 
 ---
 TEST1
+TEST2
